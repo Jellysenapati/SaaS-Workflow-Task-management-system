@@ -22,17 +22,16 @@ Modern full-stack productivity web app with:
 ### Run Backend
 1. `cd backend`
 2. `npm install`
-3. Copy `.env.example` to `.env` and update values
+3.  update values
 4. `npm run dev`
 
 ### Run Frontend
 1. `cd frontend`
 2. `npm install`
-3. Create `.env` with: `VITE_API_URL=http://localhost:5000/api`
+3. Create `.env` 
 4. `npm run dev`
 
-### Default API Base URL
-`http://localhost:5000/api`
+
 
 ### Deployment
 - **Backend (Render):**
